@@ -1,0 +1,34 @@
+.dad {
+    border: 1px solid gray;
+    padding: 20px;
+}
+
+.a , .b , .c  {
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+
+.a {
+    padding: 50px;
+    background: gray;
+    margin-bottom: 15px;
+}
+
+.bc {
+    display: flex;
+}
+
+.b {
+    background: cornflowerblue;
+
+    width: 80%;
+    height: 200px;
+    margin-right: 15px;
+}
+
+.c {
+    background: aqua;
+    width: 20%;
+}
+
